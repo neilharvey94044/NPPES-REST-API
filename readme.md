@@ -32,6 +32,6 @@ Note: Obviously the URL above will change depending upon how you run the program
 
 
   #### See Also
-  ### NPPES-Data-Load - process to load and geocode NPPES NPI data for Healthcare Providers.
-  ### CAHealthFacilityDBLoad - process to load California healthcare facility, services, beds information to SQL Server.
-  ### CAHealthQueries - C# queries against healthcare data.
+  ### **NPPES-Data-Load** - process to load and geocode NPPES NPI data for Healthcare Providers.
+  ### **CAHealthFacilityDBLoad** - process to load California healthcare facility, services, beds information to SQL Server.
+  ### **CAHealthQueries** - C# queries against healthcare data.
