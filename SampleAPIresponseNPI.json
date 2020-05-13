@@ -1,0 +1,25 @@
+{
+    "npi": "1609164599",
+    "type": 1,
+    "name": "MR. JOHNMER CHAN ",
+    "addrLine1": "3825 ADRIATIC WAY",
+    "addrLine2": "",
+    "addrCity": "SAN BRUNO",
+    "addrState": "CA",
+    "addrZip": "940664552",
+    "taxonomies": [
+        {
+            "txCode": "225100000X",
+            "classification": "Physical Therapist",
+            "specialization": ""
+        }
+    ],
+    "othProviders": [
+        {
+            "othId": "PT 37300",
+            "othTypeCode": "01",
+            "othIssuer": "PT LICENSE",
+            "othState": "CA"
+        }
+    ]
+}
